@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Master Class - learning application](https://github.com/ALI-8089/Master-Class)
 
-- 🌱 I’m currently learning **MERN STACK DEVELEPMENT**
+- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
 - 👨‍💻 All of my projects are available at [https://ali-8089.github.io/ALI-AKBAR/](https://ali-8089.github.io/ALI-AKBAR/)
 
