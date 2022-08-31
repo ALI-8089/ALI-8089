@@ -1,6 +1,6 @@
 ![MasterHead](https://ballpc.com/wpx/wp-content/uploads/full-stack.jpg)
 <h1 align="center">Hi 👋, I'm ALI AKBAR P</h1>
-<h3 align="center">A passionate self-learner MERN stack developer from India .Love to do code programming and solving problems .</h3>
+<h3 align="center">A passionate self-learn MERN stack developer from India .Love to do code programming and solving problems .</h3>
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
