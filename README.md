@@ -2,7 +2,11 @@
 <h1 align="center">Hi 👋, I'm ALI AKBAR P</h1>
 <h3 align="center">A passionate self-learner MERN stack developer from India .Love to do code programming and solving problems .</h3>
 
-<img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif">
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-8089&label=Profile%20views&color=0e75b6&style=flat" alt="ali-8089" /> </p>
 
